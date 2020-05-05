@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1557857530 source:c:\users\marwo\desktop\konikk\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+
+1558006994 source:c:\users\dominiœ\desktop\koniktestowy\konikk\main — kopia.c
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1558471227 source:c:\users\pawe³\desktop\moje materia³y\semestr 2\projekt aisd\konik\koniktestowy\konikk\main — kopia.c
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1558522520 source:c:\users\pawe³\desktop\moje materia³y\semestr 2\projekt aisd\konik\koniktestowy\konikk\main.c
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
